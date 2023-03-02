@@ -3,7 +3,7 @@
 
 
 
-### Problema
+## Problema
 
 Se requiere crear un programa para gestionar los diferentes platos que existen en un restaurante.
 De estos platos se guarda un identificador, nombre, descripción, el nivel de dificultad(BAJA, MEDIO, ALTA), el precio para el cliente, la categoría (ENTRANTE, PRIMERO, SEGUNDO, POSTRE), una lista con los ingredientes utilizados y el encargado de realizar este plato.
@@ -26,7 +26,7 @@ A continuación se facilitan dos empleados:
 #### Empleado Pedro = new Empleado("76", "Pedro", "Lazaro", Rango.CHEF);
 #### Empleado Jose = new Empleado("76", "Pedro", "Lazaro", Rango.RRHH);
 
-### MÉTODOS A IMPLEMENTAR
+## MÉTODOS A IMPLEMENTAR
 
 - AÑADIR EMPLEADO  (Este método añade un empleado)
 - BORRAR EMPLEADO  (Este método borra un empleado (solo lo puede hacer RRHH))
